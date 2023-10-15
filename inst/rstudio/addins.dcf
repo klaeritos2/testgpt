@@ -1,19 +1,19 @@
-Name: Spelling and Grammar
+Name: test1
 Description: Uses OpenAI's GPT to improve spelling and grammar of selected text
 Binding: addin_spelling_grammar
 Interactive: false
 
-Name: Comment your code
+Name: test2
 Description: Uses OpenAI's GPT-3.5 to generate comments for your code
 Binding: addin_comment_code
 Interactive: false
 
-Name: ChatGPT
+Name: test3
 Description: Start a chat session
 Binding: addin_chatgpt
 Interactive: true
 
-Name: ChatGPT in Source
+Name: test4
 Description: Use ChatGPT in source instead of in a shiny app
 Binding: addin_chatgpt_in_source
 Interactive: false
